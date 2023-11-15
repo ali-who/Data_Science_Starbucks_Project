@@ -1,4 +1,4 @@
-# Data_Science_Capstone_Project
+# Data Science Starbucks Project
 
 This capstone project aims to analyse starbucks customer data
 
