@@ -1,6 +1,6 @@
 # Data Science Starbucks Project
 
-This project aims to analyse starbucks customer data. To see the published article for the results please click here[https://medium.com/@ali5s.atif/starbucks-send-an-offer-that-no-one-can-resist-d1ee29d25c3e]
+This project aims to analyse starbucks customer data. To see the published article for the results please click [here](https://medium.com/@ali5s.atif/starbucks-send-an-offer-that-no-one-can-resist-d1ee29d25c3e)
 
 ## Dataset overview
 The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
