@@ -1,8 +1,22 @@
 # Data Science Starbucks Project
 
-This project aims to analyse starbucks customer data. To see the published article for the results please click [here](https://medium.com/@ali5s.atif/starbucks-send-an-offer-that-no-one-can-resist-d1ee29d25c3e)
+This project aims to analyse Starbucks customer data. To see the published article for the results please click [here](https://medium.com/@ali5s.atif/starbucks-send-an-offer-that-no-one-can-resist-d1ee29d25c3e)
 
-## Dataset overview
+## File Descriptions
+Starbucks_Capstone_notebook.ipynb - Notebook with all my working
+portfolio.json - portfolio file of the offers
+profile.json - customer profile data frame
+
+## Libraries Used
+In order to run the Jupyter Notebook you will need to have Python 3 installed and the following dependencies:
+
+pandas
+Sklearn
+Numpy
+Matplotlib
+Seaborn
+
+## Dataset Overview
 The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
 Each person in the simulation has some hidden traits that influence their purchasing patterns and are associated with their observable traits. People produce various events, including receiving offers, opening offers, and making purchases.
 As a simplification, there are no explicit products to track. Only the amounts of each transaction or offer are recorded.
@@ -19,10 +33,10 @@ Rewards program users (17000 users x 5 fields)
 - income: (numeric)
 
 portfolio.json
-Offers sent during 30-day test period (10 offers x 6 fields)
+Offers sent during the 30-day test period (10 offers x 6 fields)
 - reward: (numeric) money awarded for the amount spent
 - channels: (list) web, email, mobile, social
-- difficulty: (numeric) money required to be spent to receive reward
+- difficulty: (numeric) money required to be spent to receive the reward
 - duration: (numeric) time for offer to be open, in days
 - offer_type: (string) bogo, discount, informational
 - id: (string/hash)
@@ -35,4 +49,8 @@ Event log (306648 events x 4 fields)
   - offer id: (string/hash) not associated with any "transaction"
   - amount: (numeric) money spent in "transaction"
   - reward: (numeric) money gained from "offer completed"
-- time: (numeric) hours after start of test
+- time: (numeric) hours after the start of the test
+
+## Acknowledgements
+I would like to thank Udacity and Starbucks for supplying the datasets.
+This project was completed on: 23/11/23
