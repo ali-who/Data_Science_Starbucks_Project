@@ -3,18 +3,17 @@
 This project aims to analyse Starbucks customer data. To see the published article for the results please click [here](https://medium.com/@ali5s.atif/starbucks-send-an-offer-that-no-one-can-resist-d1ee29d25c3e)
 
 ## File Descriptions
-Starbucks_Capstone_notebook.ipynb - Notebook with all my working
-portfolio.json - portfolio file of the offers
-profile.json - customer profile data frame
+- Starbucks_Capstone_notebook.ipynb - Notebook with all my working
+- portfolio.json - portfolio file of the offers
+- profile.json - customer profile data frame
 
 ## Libraries Used
 In order to run the Jupyter Notebook you will need to have Python 3 installed and the following dependencies:
-
-pandas
-Sklearn
-Numpy
-Matplotlib
-Seaborn
+- pandas
+- Sklearn
+- Numpy
+- Matplotlib
+- Seaborn
 
 ## Dataset Overview
 The program used to create the data simulates how people make purchasing decisions and how those decisions are influenced by promotional offers.
