@@ -10,7 +10,7 @@ This project aims to analyse Starbucks customer data. To see the published artic
 
 ## Libraries Used
 In order to run the Jupyter Notebook you will need to have Python 3 installed and the following dependencies:
-- pandas
+- Pandas
 - Sklearn
 - Numpy
 - Matplotlib
