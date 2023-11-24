@@ -3,9 +3,10 @@
 This project aims to analyse Starbucks customer data. To see the published article for the results please click [here](https://medium.com/@ali5s.atif/starbucks-send-an-offer-that-no-one-can-resist-d1ee29d25c3e)
 
 ## File Descriptions
-- Starbucks_Capstone_notebook.ipynb - Notebook with all my working
+- Starbucks_Capstone_notebook.ipynb - Notebook with the methodology of the analysis
 - portfolio.json - portfolio file of the offers
 - profile.json - customer profile data frame
+- transcript.zip - .json file of transcript data when unzipped
 
 ## Libraries Used
 In order to run the Jupyter Notebook you will need to have Python 3 installed and the following dependencies:
